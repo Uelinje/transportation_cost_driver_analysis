@@ -1,4 +1,4 @@
-# Retail Profitability & Discount Policy Analysis
+# Retail-profitability-discount-analysis
 
 ## Executive Summary
 
